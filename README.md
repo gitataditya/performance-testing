@@ -16,3 +16,7 @@ Assignment: Performance Testing for Web Application
       - Scripting is easy as compared to other tools
       - Reporting capabilities are very sophisticated
       - Best in-budget commercial tool as compared to LoadRunner.
+
+3. Test Run Instructions:
+  - Download the scripts from Performance Test Scripts directory
+  - Dowload NeoLoad Performance tool and choose the downloaded script file (.nlp)
